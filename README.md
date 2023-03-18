@@ -36,9 +36,9 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrheaven778&layout=compact&theme=jolly&border_radius=1&locale=es)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrheaven778&layout=compact&theme=jolly&border_radius=1&locale=es)
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrheaven778&show_icons=true&theme=jolly&border_radius=1&locale=es)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrheaven778&show_icons=true&theme=jolly&border_radius=1&locale=es)
 
