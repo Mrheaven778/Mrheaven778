@@ -1,8 +1,7 @@
-
-
 <div id="header" aling="center">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="logo" width="200"/>
-
+    <h1 aling="center">Hi 👋, I am learning development</h1>
+    <h3 aling="center">A passionate fullstack developer from Spain. I am learning Development, I offer my programming and development services in all kinds of web projects</h3>
 </div>
 
 ### Hi there 👋
