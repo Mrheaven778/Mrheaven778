@@ -10,7 +10,7 @@
 
 ## 📝 About me
 
-- 🧡 I make your website look pretty and work well
+- 🧡 I make your website look pretty
 - 🌐 I create your website from scratch
 - 🌱 I’m currently learning **HTML, CSS, JS, TS, PY, SQL**
 - 📫 How to reach me on Discord **Mr Heaven#1109**
