@@ -9,12 +9,15 @@
 ---
 
 ## 📝 About me
+
 - 🧡 I make your website look pretty and work well
 - 🌐 I create your website from scratch
-- 🌱 I’m currently learning **HTML, CSS, JS, TS, PY**
-- 📫 How to reach me **sergitoabruzos@gmail.com**
+- 🌱 I’m currently learning **HTML, CSS, JS, TS, PY, SQL**
+- 📫 How to reach me **sergitoabruzos@gmail.com**\
 
 ---
+
+<br>
 
 ## 🛠️ Languages and Tools:
 <div>
@@ -24,5 +27,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </div>
+
+<br>
+
+---
+
+### 📊 My Github Stats
+<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrheaven778&layout=compact&theme=jolly&border_radius=1&locale=es)]
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrheaven778&show_icons=true&theme=jolly&border_radius=1&locale=es)]
+
