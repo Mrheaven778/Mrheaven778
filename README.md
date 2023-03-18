@@ -12,7 +12,7 @@
 - 🧡 I make your website look pretty and work well
 - 🌐 I create your website from scratch
 - 🌱 I’m currently learning **HTML, CSS, JS, TS, PY**
-- 📫 How to reach me **sergitoabruzos@gmail.com**\
+- 📫 How to reach me **sergitoabruzos@gmail.com**
 
 ---
 ## 🛠️ Languages and Tools:
